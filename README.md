@@ -30,8 +30,6 @@
     <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white"/>
   </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mina7038&repo=CpgnTeamProject)](https://github.com/mina7038/CpgnTeamProject)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mina7038&repo=AmoreTeamProject)](https://github.com/mina7038/AmoreTeamProject)
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mina7038&show_icons=true&theme=transparent)
 
