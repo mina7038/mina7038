@@ -1,12 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=I%20am%20Mina.&fontSize=70)
 
 <h3>🙋‍♀️ About Me! 🙋‍♀️<h3>
-<h5>안녕하세요. 웹개발자를 꿈꾸는 김미나입니다.</h5>
+<h4>안녕하세요. 웹개발자를 꿈꾸는 김미나입니다.</h4>
 
 
-
-
-  
 <h3>📚 Tech Stack 📚</h3>
   <p>
     <img src="https://img.shields.io/badge/JAVA-%23ED8B00?style=flat-square&&logo=openjdk&logoColor=white"/>
