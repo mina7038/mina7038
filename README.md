@@ -6,12 +6,6 @@
 
 <h3>📚 Tech Stack 📚</h3>
   <p>
-    <img src="https://img.shields.io/badge/JAVA-%23ED8B00?style=flat-square&&logo=openjdk&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SPRING DATA JPA-6DB33F?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  </p>
-  <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white"/>
     <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
@@ -19,9 +13,9 @@
     <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/AMAZON AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JENKINS-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JAVA-%23ED8B00?style=flat-square&&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   </p>
   <p>
     <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/>
